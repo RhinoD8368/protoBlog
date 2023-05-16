@@ -1,2 +1,0 @@
-# protoBlog
-ProtoType_Blog
